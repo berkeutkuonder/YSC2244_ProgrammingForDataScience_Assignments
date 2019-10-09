@@ -1,0 +1,11 @@
+Produce a file that contains the following functions :
+
+lcg(m, a, c, x) Linear Congruential Generator (LCG)
+lcg_randint (lb , ub , size) return list of 'size' random integers with values between 'lb' and 'ub'
+uniform_float() return float in [0,1[ interval following uniform distribution
+
+Extras (you have to do your research):
+
+normal_float() return float in [0,1[ interval following normal distribution
+poisson_int(L) return integer in [0,L[ interval following poisson distribution
+and another well-known distribution of your choice.
